@@ -3,8 +3,6 @@ My first repository
 
 ## Avengers: Infinity War
 
-![Avengers: Infinity War Poster](https://example.com/infinity-war-poster.jpg)
-
 - **Release Year:** 2018
 - **Directors:** Anthony Russo, Joe Russo
 - **Writers:** Christopher Markus, Stephen McFeely
